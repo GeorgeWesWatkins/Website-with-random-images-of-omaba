@@ -1,0 +1,11 @@
+body{
+    background-image: url('https://images-na.ssl-images-amazon.com/images/I/71hG9k8M81L.png');
+}
+
+#omabaImg{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
